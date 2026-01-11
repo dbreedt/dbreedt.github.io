@@ -1,5 +1,5 @@
-#baseURL = 'https://dbreedt.github.io/'
-baseURL = 'http://localhost/'
+baseURL = 'https://dbreedt.github.io/'
+#baseURL = 'http://localhost/'
 languageCode = 'en-us'
 title = 'My Random Ramblings'
 theme = 'hugo-book'
