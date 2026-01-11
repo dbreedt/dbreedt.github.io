@@ -1,0 +1,8 @@
+# Ignore the folder where local gems are installed
+vendor/
+
+# Ignore Jekyll's temporary build folders
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
