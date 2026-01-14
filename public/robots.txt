@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dbreedt.github.io/sitemap.xml

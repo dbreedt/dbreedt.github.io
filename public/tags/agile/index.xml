@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Agile on My Random Ramblings</title>
+    <link>https://dbreedt.github.io/tags/agile/</link>
+    <description>Recent content in Agile on My Random Ramblings</description>
+    <image>
+      <title>My Random Ramblings</title>
+      <url>https://dbreedt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dbreedt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.154.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dbreedt.github.io/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Changes, Changes everywhere</title>
+      <link>https://dbreedt.github.io/posts/changes_changes_2021/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://dbreedt.github.io/posts/changes_changes_2021/</guid>
+      <description>&lt;p&gt;An adage goes: “&lt;em&gt;The more things change, the more they stay the same&lt;/em&gt;” — that kind of holds true for Software Development.&lt;/p&gt;
+&lt;p&gt;Back in the day, we used to design our systems, write the code, compile it, run it, get it tested and then deploy it. We still do all of that today, regardless of what we are building, be it microservices, large scale monolith systems, mobile apps, websites or firmware for IOT things.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
