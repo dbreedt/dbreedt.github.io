@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FinTech on My Random Ramblings</title>
+    <link>https://dbreedt.github.io/tags/fintech/</link>
+    <description>Recent content in FinTech on My Random Ramblings</description>
+    <image>
+      <title>My Random Ramblings</title>
+      <url>https://dbreedt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dbreedt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.154.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dbreedt.github.io/tags/fintech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quantum Computing in Finance: A Game-Changer... Eventually</title>
+      <link>https://dbreedt.github.io/posts/quantum-computing-finance/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://dbreedt.github.io/posts/quantum-computing-finance/</guid>
+      <description>&lt;p&gt;The rapid advancements in quantum computing research have positioned it
+as both a force for innovation and a looming threat to the financial
+sector. While some celebrate groundbreaking discoveries, others amplify
+concerns over the risks quantum computing may pose to financial
+institutions.&lt;/p&gt;
+&lt;p&gt;The United Nations has declared 2025 the &lt;a href=&#34;https://quantum2025.org/&#34;
+   
+    
+      target=&#34;_blank&#34; rel=&#34;noopener&#34; 
+   &gt;
+   &lt;em&gt;International Year of Quantum
+Science and Technology&lt;/em&gt;
+&lt;/a&gt;
+, and experts speculate about the
+so-called &lt;a href=&#34;https://www.cigionline.org/articles/q-day-is-coming-is-the-world-prepared/&#34;
+   
+    
+      target=&#34;_blank&#34; rel=&#34;noopener&#34; 
+   &gt;
+   ‘Q-Day’
+&lt;/a&gt;
+—the
+moment when quantum computers will be capable of breaking the cryptographic systems that secure digital
+communications and transactions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
