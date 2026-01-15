@@ -1,5 +1,6 @@
 #! /usr/bin/bash
 
+hugo --cleanDestinationDir
 hugo --minify
 git add *
 git commit
