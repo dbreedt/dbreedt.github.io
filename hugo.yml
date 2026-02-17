@@ -18,6 +18,10 @@ outputs:
     - RSS
     - JSON
 
+services:
+  googleAnalytics:
+    id: G-LHP6B2F93F
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: My Random Ramblings
@@ -131,6 +135,7 @@ menu:
     #  name: example.org
     #  url: https://example.org
     #  weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
